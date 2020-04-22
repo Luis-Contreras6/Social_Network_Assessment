@@ -1,0 +1,19 @@
+* {box-sizing: border-box;
+    margin-left: auto; 
+    margin-right: auto;
+    background-color: rgb(163, 162, 162);}
+
+.header {position: relative;
+     width: 850px;
+    height: 425px;
+    background-color:#3B5998;
+    border:1px black;}
+
+    .profilepic {position: relative;
+        top: 230px;
+        left: -310px;
+        width: 220px;
+        height: 220px;
+        background-color: pink;
+        border-radius: 3px;
+        border: black solid 0.5px;}
